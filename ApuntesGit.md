@@ -68,6 +68,9 @@ git config --global user.email "mike@mail.moc"
 ## Parametros interesantes
 core.editor -> Editor de los mensajes de commit (nano)  
 
+## Commit and push
+git add . ; git add -u ; git status ; git commit ; git status ; git push  
+
 ## Editor Markdown online
 https://jbt.github.io/markdown-editor/
 
