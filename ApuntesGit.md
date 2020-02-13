@@ -16,6 +16,9 @@ git clone DireccionProyecto
 ## Descargar los cambios al repositorio local desde el remoto
 git pull  
 
+## Crear una instantanea del repositorio
+git commit (-m "descripcion del commit")  
+
 ## Enviar los cambios al servidor desde el repositorio local
 git push  
 
