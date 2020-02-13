@@ -12,7 +12,7 @@ git add RutaArchivo
     git add -u  
 
 ## Descargar en local proyecto
-git clone DireccionProyecto  
+git clone http://direcciondelproyecto/repositorio/proyecto.git  
 
 ## Descargar los cambios al repositorio local desde el remoto
 git pull  
@@ -22,8 +22,11 @@ git commit (-m "descripcion del commit")
 
 ## Enviar los cambios al servidor desde el repositorio local
 git push  
+## Cambiar de rama
+git checkout NombreRama  
 
 ## Crear un nuevo repositorio (Creado primero en el servidro GitLab)
+(Metodo servidor GitLab)
 git clone http://10.10.0.31:8000/mike/pruebas.git  
 cd pruebas  
 touch README.md  
@@ -32,6 +35,7 @@ git commit -m "add README"
 git push -u origin master  
 
 ## Crear repositorio a partir de una carpeta existente con codigo
+(Metodo servidor GitLab)  
 cd existing_folder  
 git init  
 git remote add origin http://10.10.0.31:8000/mike/pruebas.git  
@@ -40,14 +44,29 @@ git commit -m "Initial commit"
 git push -u origin master  
 
 ## A partir de un repositorio Git ya existente
+(Metodo servidor GitLab)  
 cd existing_repo  
 git remote rename origin old-origin  
 git remote add origin http://10.10.0.31:8000/mike/pruebas.git  
 git push -u origin --all  
 git push -u origin --tags  
 
+## Ver modificaciones
+git log  
+- Ver las ultimas 30 modificaciones  
+    git log -p -30  
+
+- Ver las modificaciones de forma grafica  
+    git log --pretty=format:"%h %s" --graph  
+
+## Mostrar el autor que ha modificado por ultima vez cada linea de un archivo
+git blame nombrearchivo.extension  
+
 ## Consultar parámetros de configuración
 git config —list  
+
+## Deshacer el ultimo commit de la rama actual
+git reset HEAD~1  
 
 ## Modificación parámetros de configuración
 - A nivel de proyecto  
@@ -74,7 +93,6 @@ git add . ; git add -u ; git status ; git commit ; git status ; git push
 ## Alias de Commit and push en .bashrc o .zshrc
 alias commit='git add . ; git add -u ; git status ; git commit ; git status'  
 alias commitandpush='git add . ; git add -u ; git status ; git commit ; git status ; git push'  
-
 
 ## Editor Markdown online
 https://jbt.github.io/markdown-editor/
