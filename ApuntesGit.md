@@ -9,6 +9,7 @@ git add RutaArchivo
     git add .  
 - Añade todos los archivos modificados, nuevos o borrados  
     git add -A  
+    git add -u  
 
 ## Descargar en local proyecto
 git clone DireccionProyecto  
