@@ -22,8 +22,20 @@ git commit (-m "descripcion del commit")
 
 ## Enviar los cambios al servidor desde el repositorio local
 git push  
-## Cambiar de rama
+
+## Ver lista de ramas
+git branch  
+## Ver lista de todas las ramas del servidor
+git branch -a  
+
+## Crear una rama
+git branch NombreRama  
+
+## Cambiar a otra rama
 git checkout NombreRama  
+
+## Borrar una rama
+git branch -d NombreRama  
 
 ## Crear un nuevo repositorio (Creado primero en el servidro GitLab)
 (Metodo servidor GitLab)
@@ -94,7 +106,6 @@ git add . ; git add -u ; git status ; git commit ; git status ; git push
 alias commit='git add . ; git add -u ; git status ; git commit ; git status'  
 alias commitandpush='git add . ; git add -u ; git status ; git commit ; git status ; git push'  
   
-
 ## Markdown guide  
 https://markdown-guide.readthedocs.io/en/latest/index.html
 
