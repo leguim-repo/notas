@@ -93,6 +93,10 @@ git add . ; git add -u ; git status ; git commit ; git status ; git push
 ## Alias de Commit and push en .bashrc o .zshrc
 alias commit='git add . ; git add -u ; git status ; git commit ; git status'  
 alias commitandpush='git add . ; git add -u ; git status ; git commit ; git status ; git push'  
+  
+
+## Markdown guide  
+https://markdown-guide.readthedocs.io/en/latest/index.html
 
 ## Editor Markdown online
 https://jbt.github.io/markdown-editor/
@@ -100,3 +104,12 @@ https://jbt.github.io/markdown-editor/
 ## Ejemplo Markdown
 https://markdown-it.github.io
 
+## Tutorial Git de Atlassisan
+https://www.atlassian.com/git/tutorials/syncing/git-push
+
+
+---
+##### Coded with ❤️ in Barcelona  
+<!--
+##### Deployed in [![GitHub](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://github.com)
+-->
