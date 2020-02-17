@@ -120,7 +120,7 @@ https://www.atlassian.com/git/tutorials/syncing/git-push
 
 
 ---
-##### Coded with in Barcelona  
+##### Coded in Barcelona  
 <!--
 Coded with ❤️ in Barcelona 
 ##### Deployed in [![GitHub](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://github.com)
