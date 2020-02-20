@@ -101,10 +101,9 @@ git config --global edit
 git config --system edit  
 git config --local edit  
 
-
 ## Desactivar el ayudante de credenciales  
 git config --system --unset credential.helper  
-(no me funciona.)
+(no me funciona. De hecho no tengo el archivo /etc/gitconfig)
 
 ## Parametros interesantes
 core.editor -> Editor de los mensajes de commit (nano)  
