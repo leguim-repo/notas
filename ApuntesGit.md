@@ -85,16 +85,26 @@ git reset HEAD~1
     git config parametro valor  
 
 - A nivel global (usuario)  
-    git config —global …  
+    git config —global .... ....  
 
 - A nivel de sistema  
-    git config —system  
+    git config —system  .... ....  
 
 ## Parámetros necesarios (globalmente)
 user.name  
 user.email  
 git config --global user.name "mike"  
 git config --global user.email "mike@mail.moc"  
+
+## Editar la configuracion  
+git config --global edit  
+git config --system edit  
+git config --local edit  
+
+
+## Desactivar el ayudante de credenciales  
+git config --system --unset credential.helper  
+(no me funciona.)
 
 ## Parametros interesantes
 core.editor -> Editor de los mensajes de commit (nano)  
