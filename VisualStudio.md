@@ -9,7 +9,7 @@
 
 ---
 
-##### Coded in Barcelona  
+##### Coded in Barcelona
 
 <!-- 
 ⇧⌥

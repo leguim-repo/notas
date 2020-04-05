@@ -142,26 +142,10 @@ git add . ; git add -u ; git status ; git commit ; git status ; git push
 
 alias commit='git add . ; git add -u ; git status ; git commit ; git status'  
 alias commitandpush='git add . ; git add -u ; git status ; git commit ; git status ; git push'  
-  
-## Markdown guide  
-
-<https://markdown-guide.readthedocs.io/en/latest/index.html>
-
-## Editor Markdown online
-
-<https://jbt.github.io/markdown-editor/>
-
-## Ejemplo Markdown
-
-<https://markdown-it.github.io>
-
-## Tutorial Git de Atlassisan
-
-<https://www.atlassian.com/git/tutorials/syncing/git-push>
 
 ---
 
-##### Coded in Barcelona  
+##### Coded in Barcelona
 
 <!--
 Coded with ❤️ in Barcelona 
