@@ -10,18 +10,23 @@
 ## Themes
 
 - morgan.codes-theme: Colores de Morgan Richardson. morgan.code (demasiado rosa)
-- monkai: Viene por defecto en VSC
+- monkai: Viene por defecto en VSC (es el que uso)
 - 
 
 ## Extensiones UI
 
 - vscode-icons: Iconos para el navegador de archivos
+- markdownlint: Markdown linting and style checking for Visual Studio Code
+- Markdown PDF: Convert Markdown to PDF
+- Markdown Preview Github Styling
 - 
 
 ## Extensiones de Desarrollo
 
 - Better Comments: Comentarios con colores. Aaron Bond
 - Python Microsoft
+- Live Server: Equivalente a browser-sync Launch a development local Server with live reload feature for static & dynamic pages
+- Debugger for Chrome: Debug your JavaScript code in the Chrome browse
 - 
 
 ---
