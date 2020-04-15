@@ -9,6 +9,8 @@ Public notes and cheatsheets
 | [VisualStudio.md](VisualStudio.md) | Keys and notes of Visual Studio Code |
 | [Links.md](Links.md) | Web pages of interest |
 | [JavaScript.md](JavaScript.md) | Notes of JavaScript |
+| [ChromeExtensions.md](ChromeExtensions.md) | Chrome Extension for Web Developers |
+|  |  |
 
 ---
 

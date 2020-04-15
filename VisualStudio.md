@@ -16,6 +16,7 @@
 ## Extensiones UI
 
 - vscode-icons: Iconos para el navegador de archivos
+- Material Icon Theme: Iconos para Visual Studio Code (uso este pkief.material-icon-theme)
 - markdownlint: Markdown linting and style checking for Visual Studio Code
 - Markdown PDF: Convert Markdown to PDF
 - Markdown Preview Github Styling
