@@ -8,6 +8,7 @@ Public notes and cheatsheets
 | [ApuntesGit.md](ApuntesGit.md) | Notes of Git |
 | [VisualStudio.md](VisualStudio.md) | Keys and notes of Visual Studio Code |
 | [Links.md](Links.md) | Web pages of interest |
+| [JavaScript.md](JavaScript.md) | Notes of JavaScript |
 
 ---
 
