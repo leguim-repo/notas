@@ -2,16 +2,16 @@
 
 ## Depuracion Remota usando Chrome
 
-1. Ejecutamos nuestra app en el equipo remoto
-
-```console
-nodejs --inspect missile.js
-```
-
-2. Hacemos un port forward del equipo remoto (9229) a nuestra maquina local(9221)
+1. Hacemos un port forward del equipo remoto (9229) a nuestra maquina local(9221)
 
 ```console
 ssh -L 9221:localhost:9229 miguel@deathstar
+```
+
+2. Ejecutamos en la conexion ssh del por forward nuestra app en el equipo remoto
+
+```console
+nodejs --inspect missile.js
 ```
 
 3. Abrimos en nuestra maquina el chrome y abrimos la direccion chrome://inspect. Hacemos click en "Open dedicated DevTools for Node"
