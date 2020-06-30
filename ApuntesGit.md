@@ -42,13 +42,17 @@ git branch -a
 
 git branch NombreRama  
 
+## Crear una rama y seleccionarla
+
+git branch -b NombreRama
+
 ## Cambiar a otra rama
 
-git checkout NombreRama  
+git checkout NombreRama
 
 ## Borrar una rama
 
-git branch -d NombreRama  
+git branch -d NombreRama
 
 ## Crear un nuevo repositorio (Creado primero en el servidro GitLab)
 
