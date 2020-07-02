@@ -147,6 +147,19 @@ git add . ; git add -u ; git status ; git commit ; git status ; git push
 alias commit='git add . ; git add -u ; git status ; git commit ; git status'  
 alias commitandpush='git add . ; git add -u ; git status ; git commit ; git status ; git push'  
 
+## Git Flow
+Instalacion para macos:  
+```code
+brew install git-flow-avh  
+```
+git-flow init  
+git-flow feature start \<nuevafeature>  
+Modificacmos/creamos los archivos necesarios normalmente  
+git add .  
+git commit  
+git-flow feature finish  
+git push  
+
 ---
 
 ##### Coded in Barcelona
