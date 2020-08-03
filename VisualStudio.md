@@ -30,6 +30,7 @@
 - Debugger for Chrome: Debug your JavaScript code in the Chrome browse [Market](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - Simple React Snippets: Snippets para React [Market](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 - React Native Tools: [Market](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+- GitLens [Market](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ---
 

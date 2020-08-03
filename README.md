@@ -11,15 +11,8 @@ Public notes and cheatsheets
 | [JavaScript.md](JavaScript.md) | Notes of JavaScript |
 | [ChromeExtensions.md](ChromeExtensions.md) | Chrome Extension for Web Developers |
 | [ReactJS.md](ReactJS.md) | Note of ReactJS |
+| [Maven.md](Maven.md) | Maven dependencies and other tricks |
 
 ---
-
-##### Coded in Barcelona
-<!--
-# Main Tittle
-
-## Section
-
----
-
-##### Coded in Barcelona
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
