@@ -1,5 +1,11 @@
 # Maven
 
+## Generar un javafx con maven por linea de comando
+
+```bash
+mvn archetype:generate -DarchetypeGroupId=org.openjfx -DarchetypeArtifactId=javafx-archetype-fxml -DarchetypeVersion=0.0.5 -DgroupId=com.mike.maven.javafx -DartifactId=javafx-maven  -Dversion=1.0.0
+```
+
 ## Proceso de creacion de un proyecto standard en maven
 
 En la consola ejecutamos:  
