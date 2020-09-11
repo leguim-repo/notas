@@ -54,7 +54,7 @@ git checkout NombreRama
 
 git branch -d NombreRama
 
-## Crear un nuevo repositorio (Creado primero en el servidro GitLab)
+## Crear un nuevo repositorio (Creado primero en el servidor GitLab)
 
 Metodo GitLab
 git clone http://10.10.0.31:8000/mike/pruebas.git  
@@ -103,7 +103,7 @@ git config —list
 
 ## Deshacer el ultimo commit de la rama actual
 
-git reset HEAD~1  
+git revert HEAD  
 
 ## Modificación parámetros de configuración
 
@@ -148,10 +148,13 @@ alias commit='git add . ; git add -u ; git status ; git commit ; git status'
 alias commitandpush='git add . ; git add -u ; git status ; git commit ; git status ; git push'  
 
 ## Git Flow
+
 Instalacion para macos:  
+
 ```code
 brew install git-flow-avh  
 ```
+
 git-flow init  
 git-flow feature start \<nuevafeature>  
 Modificacmos/creamos los archivos necesarios normalmente  
