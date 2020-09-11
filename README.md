@@ -1,6 +1,10 @@
 # Notas
 
 Public notes and cheatsheets
+![GitHub last commit](https://img.shields.io/github/last-commit/leguim-repo/notas)
+![GitHub](https://img.shields.io/github/license/leguim-repo/notas)
+![GitHub repo size](https://img.shields.io/github/repo-size/leguim-repo/notas)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leguim-repo/notas)
 
 | Link | Description |
 |------|-------------|
@@ -21,10 +25,7 @@ Public notes and cheatsheets
 | [VisualStudio.md](VisualStudio.md) | Keys and notes of Visual Studio Code |
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/leguim-repo/notas)
-![GitHub](https://img.shields.io/github/license/leguim-repo/notas)
-![GitHub repo size](https://img.shields.io/github/repo-size/leguim-repo/notas)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leguim-repo/notas)
+
 ---
 <!-- Pit i Collons -->
 ![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
