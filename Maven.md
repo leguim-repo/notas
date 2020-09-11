@@ -117,3 +117,7 @@ Plugin:
 ```bash
 mvn tomcat7:run
 ```
+
+---
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

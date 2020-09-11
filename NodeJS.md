@@ -73,8 +73,6 @@ npm uninstall --save paquete@1.0.0
 ```console
 ```
 
-
-
 ---
-
-##### Coded in Barcelona
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

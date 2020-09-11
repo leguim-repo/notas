@@ -11,5 +11,5 @@ Simple lista de dependencias que he ido videndo/usando en NodeJS
 | | |
 
 ---
-
-##### Coded in Barcelona
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

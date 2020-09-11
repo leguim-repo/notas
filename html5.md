@@ -22,3 +22,7 @@
 ```
 
 Validador sintaxis html <https://validator.w3.org/nu/>
+
+---
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

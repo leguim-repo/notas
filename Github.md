@@ -22,6 +22,5 @@ Repos, features, marketplace y otras cosillas interesante en Github
 | Badges | https://shields.io/ |  
 
 ---
-
-##### Coded in Barcelona
 <!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

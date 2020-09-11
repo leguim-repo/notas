@@ -179,4 +179,5 @@ booking-pom-hotel
 ```
 
 ---
+<!-- Pit i Collons -->
 ![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

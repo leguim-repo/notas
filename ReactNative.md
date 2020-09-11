@@ -10,3 +10,7 @@ Shake the device
 ```java
 import { Icon } from 'react-native-elements';
 ```
+
+---
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

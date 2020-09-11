@@ -33,8 +33,8 @@
 - GitLens [Market](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ---
-
-##### Coded in Barcelona
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
 
 <!-- 
 ⇧⌥

@@ -45,5 +45,5 @@ surge
 Mas info sobre surge [aqui](https://surge.sh/help/adding-a-200-page-for-client-side-routing)
 
 ---
-
-##### Coded in Barcelona
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")

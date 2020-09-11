@@ -161,8 +161,8 @@ git-flow feature finish
 git push  
 
 ---
-
-##### Coded in Barcelona
+<!-- Pit i Collons -->
+![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
 
 <!--
 Coded with ❤️ in Barcelona 
