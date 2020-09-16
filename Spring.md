@@ -86,7 +86,6 @@ mkdir application/repositories;
 mkdir application/services;
 mkdir ui;
 mkdir ui/controllers;
-mkdir ui/models;
 ```
 
 Dentro del resources folder:  
@@ -97,7 +96,8 @@ mkdir static/css;
 mkdir static/js;
 mkdir templates;
 mkdir templates/error;
-touch templates/index.html
+touch templates/index.html;
+mkdir templates/fragments;
 ```
 
 El arbol de directorios de la applicacion queda de la siguiente manera:
