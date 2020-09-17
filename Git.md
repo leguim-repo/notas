@@ -101,6 +101,10 @@ git blame nombrearchivo.extension
 
 git config —list  
 
+## Deshacer todos los cambios en los archivos y directorios
+
+git clean -fd
+
 ## Deshacer el ultimo commit de la rama actual
 
 git revert HEAD  

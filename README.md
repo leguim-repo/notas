@@ -5,7 +5,7 @@ Public notes and cheatsheets
 | Link | Description |
 |------|-------------|
 | [FlaskInDocker](FlaskInDocker/) | Flask skeleton in Docker |
-| [ApuntesGit.md](ApuntesGit.md) | Notes of Git |
+| [Git.md](Git.md) | Notes of Git |
 | [ChromeExtensions.md](ChromeExtensions.md) | Chrome Extension for Web Developers |
 | [Github.md](Github.md) | Github stuff |
 | [html5.md](html.md) | Notes of HTML5 |
