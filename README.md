@@ -12,6 +12,7 @@ Public notes and cheatsheets
 | [IntelliJ.md](IntelliJ.md) | Notes about IntelliJ |
 | [JavaScript.md](JavaScript.md) | Notes of JavaScript |
 | [Links.md](Links.md) | Web pages of interest |
+| [Macos.md](Macos.md) | Macos tricks and shortcuts |
 | [Maven.md](Maven.md) | Maven dependencies and other tricks |
 | [MySQL-MacOs.md](MySQL-MacOs.md) | Suff of MySQL on MacOs|
 | [NodeJS_package.md](NodeJS.md) | Note of NodeJS packages |
