@@ -44,6 +44,11 @@ pip3 install awscli-local
 
 (He visto que se queja de que la ruta '/Users/miguel/Library/Python/3.8/bin' no esta en la path. Hay que añadirla)
 
+```code
+export PATH=$PATH:/Users/mike/Library/Python/3.8/bin/
+```
+
+
 ## 06 Pruebas aws
 
 ```code
@@ -59,13 +64,35 @@ Default region name [None]: Frankfort
 Default output format [None]:
 ```
 
-## 07 GUI para LocalStack
+
+
+## 07 GUI incluido en LocalStack (deprecated)
+
+
+```code
+pip3 install flask
+pip3 install flask-swagger
+pip3 install flask_cors
+pip3 install h11
+pip3 install quart
+pip3 install xmltodict
+pip3 install moto
+pip3 install amazon_kclpy
+install nodejs LTS version
+pip3 install python-crontab
+pip3 install cbor2
+
+ahora peta: No module named 'localstack.services.cloudwatch'
+demasiados modulos para un cli que esta deprecated....
+de momento paro aqui
+
+```
+
+## 08 GUI para LocalStack
 
 https://github.com/aaronshaf/dynamodb-admin
 
 
-```code
-````
 
 ```code
 ````
