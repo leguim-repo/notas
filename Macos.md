@@ -14,7 +14,16 @@ To hide files:
 ```code
 defaults write com.apple.finder AppleShowAllFiles -bool false
 killall Finder
-````
+```
+
+## Change crontab editor
+
+By default crontab editor is vim, to change:
+
+```code
+export EDITOR=/usr/bin/nano
+export VISUAL=nano
+```
 
 ---
 <!-- Pit i Collons -->
