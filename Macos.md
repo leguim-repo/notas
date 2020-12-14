@@ -25,6 +25,8 @@ export EDITOR=/usr/bin/nano
 export VISUAL=nano
 ```
 
+This is valid for unix systems too  
+
 ---
 <!-- Pit i Collons -->
 ![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
