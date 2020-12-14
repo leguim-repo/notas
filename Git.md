@@ -101,6 +101,16 @@ git blame nombrearchivo.extension
 
 git config —list  
 
+## Crear .gitignore global
+
+nano ~/.gitignore
+.DS_Store
+.vscode
+.idea
+
+git config --global core.excludesfile ~/.gitignore  
+git config --global --list  
+
 ## Deshacer todos los cambios en los archivos y directorios
 
 git clean -fd
