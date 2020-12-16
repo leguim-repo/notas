@@ -22,6 +22,7 @@ aws --endpoint-url=http://localhost:4566 sqs send-message --queue-url http://loc
 aws --endpoint-url=http://localhost:4566 sqs receive-message --queue-url http://localhost:4566/queue/test-cola 
 awslocal sqs receive-message --queue-url http://localhost:4566/queue/test-cola 
 
+awslocal sqs list-queues
 
 ````
 
