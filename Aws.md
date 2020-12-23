@@ -27,4 +27,4 @@ awslocal sqs receive-message --queue-url http://localhost:4566/queue/test-cola
 
 ---
 <!-- Pit i Collons -->
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" witdh="109px" alt="Coded in Barcelona"/>

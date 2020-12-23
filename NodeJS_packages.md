@@ -12,4 +12,4 @@ Simple lista de dependencias que he ido videndo/usando en NodeJS
 
 ---
 <!-- Pit i Collons -->
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" witdh="109px" alt="Coded in Barcelona"/>

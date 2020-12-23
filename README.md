@@ -30,4 +30,4 @@ Public notes and cheatsheets
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/leguim-repo/notas)
 ---
 <!-- Pit i Collons -->
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" witdh="109px" alt="Coded in Barcelona"/>
