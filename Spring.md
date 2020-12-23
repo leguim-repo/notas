@@ -180,4 +180,4 @@ booking-pom-hotel
 
 ---
 <!-- Pit i Collons -->
-![Coded in Barcelona](codedinbcn.png "Coded in Barcelona")
+![https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)

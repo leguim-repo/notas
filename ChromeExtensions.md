@@ -7,8 +7,7 @@
 
 ---
 <!-- Pit i Collons -->
-<img src="https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png" witdh="109px" alt="Coded in Barcelona"/>
-
+![https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
 
 <!-- 
 ⇧⌥
