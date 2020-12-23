@@ -25,4 +25,4 @@ Validador sintaxis html <https://validator.w3.org/nu/>
 
 ---
 <!-- Pit i Collons -->
-![https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)

@@ -39,25 +39,22 @@ docker run -d -p 33060:3306 --name mysql-db  -e MYSQL_ROOT_PASSWORD=secret --mou
 
 
 ````
+
 docker exec -i pom-mysql mysql -u root -p secret1234  <<< "show databases;"
 docker exec -it pom-mysql bash
 
 ```code
 
-````
+```
 
 ```code
 
-````
+```
 
 ```code
 
-````
-
-
-
-
+```
 
 ---
 <!-- Pit i Collons -->
-![https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)

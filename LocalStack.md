@@ -93,15 +93,18 @@ de momento paro aqui
 https://github.com/aaronshaf/dynamodb-admin
 
 
+```code
+```
 
 ```code
-````
+```
 
 ```code
-````
+```
 
 ```code
-````
+```
 
-```code
-````
+---
+<!-- Pit i Collons -->
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)

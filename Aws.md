@@ -24,8 +24,8 @@ awslocal sqs receive-message --queue-url http://localhost:4566/queue/test-cola
 
 awslocal sqs list-queues
 
-````
+```
 
 ---
 <!-- Pit i Collons -->
-![](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)

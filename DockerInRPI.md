@@ -12,10 +12,10 @@ sh get-docker.sh
 usermod -aG docker mike
 docker version
 docker info
-````
+```
 
 When login with user mike or your own use the command 'docker version' should be work.  
 
 ---
 <!-- Pit i Collons -->
-![https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
