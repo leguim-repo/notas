@@ -28,4 +28,4 @@ awslocal sqs list-queues
 
 ---
 <!-- Pit i Collons -->
-![https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
