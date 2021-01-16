@@ -1,5 +1,15 @@
 # MacOs
 
+## Generate "Read Receipts" in Mail
+
+```code
+$ defaults read com.apple.mail UserHeaders
+$ defaults write com.apple.mail UserHeaders \
+'{"Disposition-Notification-To" = "user@domain"; }'
+```
+
+Source: [macworld](http://hints.macworld.com/article.php?story=20050512155856402)
+
 ## Show/Hide files
 
 To show hidden files:
