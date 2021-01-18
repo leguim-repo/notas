@@ -32,18 +32,18 @@ docker volume create pom-mysql-db-data
 
 # Levantamos nuevamente el Docker y agregamos el volumen con la opcion --mount
 
+Con esto levantamos la imagen de pom-mysql de forma persistente, las modificacion que se hagan en las BD quedan persistentes en el volumen Docker llamado pom-mysql-db-data  
+
 ```code
 docker run -d -p 3306:3306 --name pom-mysql -e MYSQL_ROOT_PASSWORD=secret1234 --mount src=pom-mysql-db-data,dst=/var/lib/mysql mysql:latest
 
-docker run -d -p 33060:3306 --name mysql-db  -e MYSQL_ROOT_PASSWORD=secret --mount src=mysql-db-data,dst=/var/lib/mysql mysql
-
-
 ````
 
-docker exec -i pom-mysql mysql -u root -p secret1234  <<< "show databases;"
-docker exec -it pom-mysql bash
+Pruebas varias no usar
 
 ```code
+docker exec -i pom-mysql mysql -u root -p secret1234  <<< "show databases;"
+docker exec -it pom-mysql bash
 
 ```
 
