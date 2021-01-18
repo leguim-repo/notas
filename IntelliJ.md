@@ -10,7 +10,7 @@ Ctrl + Tab: Switcher
 
 ---
 <!-- Pit i Collons -->
-![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
 <!-- 
 ⇧⌥
 ⇧⌘
