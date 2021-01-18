@@ -3,7 +3,7 @@
 (https://platzi.com/tutoriales/1432-docker/3268-como-crear-un-contenedor-con-docker-mysql-y-persistir-la-informacion/)
 
 ```code
-docker run -d -p 3306:3306 --name pom-mysql -v ./mysql-data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=secret1234 mysql:latest
+docker run -d -p 3306:3306 --name pom-mysql -e MYSQL_ROOT_PASSWORD=secret1234 mysql:latest
 `````
 
 ## Abrir sesion en el contenedor
