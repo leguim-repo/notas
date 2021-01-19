@@ -6,6 +6,7 @@ Public notes and cheatsheets
 |------|-------------|
 | [FlaskInDocker](FlaskInDocker/) | Flask skeleton in Docker |
 | [Git.md](Git.md) | Notes of Git |
+| [Chrome.md](Chrome.md) | Chrome Extension for Web Developers |
 | [ChromeExtensions.md](ChromeExtensions.md) | Chrome Extension for Web Developers |
 | [Github.md](Github.md) | Github stuff |
 | [html5.md](html.md) | Notes of HTML5 |
@@ -23,8 +24,6 @@ Public notes and cheatsheets
 | [ReactNative.md](ReactNative.md) | Note of React Native |
 | [Spring.md](Spring.md) | Spring notes |
 | [VisualStudio.md](VisualStudio.md) | Keys and notes of Visual Studio Code |
-
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/leguim-repo/notas)
 ![GitHub](https://img.shields.io/github/license/leguim-repo/notas)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leguim-repo/notas)
