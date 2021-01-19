@@ -20,7 +20,6 @@ Where <IntelliJIdea2020.3> it's your IntelliJ/JetBrains product
 
 More info about this in [https://www.jetbrains.com/help/idea/tuning-the-ide.html#plugins-directory](https://www.jetbrains.com/help/idea/tuning-the-ide.html#plugins-directory)
 
-
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
