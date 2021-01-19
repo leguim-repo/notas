@@ -10,13 +10,16 @@ Ctrl + Tab: Switcher
 
 ## Plugins folder
 
-You can find your plugins installed in the following path:
+You can find your plugins installed in the following path:  
 
 ```code
 ~/Library/Application Support/JetBrains/IntelliJIdea2020.3/plugins
 ```
 
-Where <IntelliJIdea2020.3> it's your IntelliJ/JetBrains product
+Where <IntelliJIdea2020.3> it's your IntelliJ/JetBrains product  
+
+More info about this in [https://www.jetbrains.com/help/idea/tuning-the-ide.html#plugins-directory](https://www.jetbrains.com/help/idea/tuning-the-ide.html#plugins-directory)
+
 
 ---
 <!-- Pit i Collons -->
