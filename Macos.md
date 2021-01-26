@@ -37,6 +37,14 @@ export VISUAL=nano
 
 This is valid for unix systems too  
 
+## Command equivalent at tree in MacOs
+
+Easy response, install tree with brew
+
+```code
+brew install tree
+```
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
