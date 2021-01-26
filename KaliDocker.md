@@ -78,6 +78,7 @@ This will create a new Docker image named my-kali (feel free to improvise!) base
 ```bash
 docker run -ti my-kali /bin/bash
 ```
+
 ---
 <!-- Pit i Collons -->
-![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)

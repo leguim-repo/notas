@@ -46,4 +46,4 @@ Mas info sobre surge [aqui](https://surge.sh/help/adding-a-200-page-for-client-s
 
 ---
 <!-- Pit i Collons -->
-![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)

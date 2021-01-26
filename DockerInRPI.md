@@ -18,4 +18,4 @@ When login with user mike or your own use the command 'docker version' should be
 
 ---
 <!-- Pit i Collons -->
-![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/codedinbcn.png)
+![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
