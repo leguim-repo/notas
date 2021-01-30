@@ -11,6 +11,7 @@ Public notes and cheatsheets
 | [Github.md](Github.md) | Github stuff |
 | [html5.md](html.md) | Notes of HTML5 |
 | [IntelliJ.md](IntelliJ.md) | Notes about IntelliJ |
+| [Java.md](Java.md) | Notes about Java |
 | [JavaScript.md](JavaScript.md) | Notes of JavaScript |
 | [KaliDocker.md](KaliDocker.md) | To have Kali in a Docker container (and create a custom image)|
 | [Links.md](Links.md) | Web pages of interest |
