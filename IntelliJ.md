@@ -1,5 +1,12 @@
 # Cosillas del IntlliJ
 
+## Cannot resolve symbol
+Sometimes for unkwown reason intellij hang on and lost symbols and made a remark that say "cannot resolve symbol XXXXX", but the symbol exists and compile. In order to resolve this problem you need restart cache of intellij
+
+<img src="img/invalidatecaches.png">
+
+If not works you can delete the hidden folder .idea of your project and restart the IDE
+
 ## Uso del plugin GitFlow
 
 <img src="img/PluginGitFlowIntelliJ.png">
