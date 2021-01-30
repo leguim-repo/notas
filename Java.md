@@ -82,6 +82,8 @@ Una mejor explicacion la encontraras en los siguientes videos:
 [Rigor Talks - PHP - #3 - Named Constructors III (Spanish)](https://youtu.be/w2CfVDtQGc0)  
 [Rigor Talks - PHP - #3 - Named Constructors IV (Spanish)](https://youtu.be/210Ed5PeK4g)  
 
+Esto ha sido gracias a una pequeña masterclass de Carlos Buenosvinos.  
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
