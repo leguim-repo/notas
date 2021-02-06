@@ -5,9 +5,12 @@ Public notes and cheatsheets
 | Link | Description |
 |------|-------------|
 | [FlaskInDocker](FlaskInDocker/) | Flask skeleton in Docker |
-| [Git.md](Git.md) | Notes of Git |
+| [Anaconda](Ananconda.md) | Anaconda notes |
 | [Chrome.md](Chrome.md) | Chrome Extension for Web Developers |
+| [Aws.md](Aws.md) | Amazon Web Services |
 | [ChromeExtensions.md](ChromeExtensions.md) | Chrome Extension for Web Developers |
+| [DockerInRPI.md](DockerInRPI.md) | Install Docker in RPI |
+| [Git.md](Git.md) | Notes of Git |
 | [Github.md](Github.md) | Github stuff |
 | [html5.md](html.md) | Notes of HTML5 |
 | [IntelliJ.md](IntelliJ.md) | Notes about IntelliJ |
