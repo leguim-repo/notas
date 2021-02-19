@@ -45,6 +45,14 @@ Easy response, install tree with brew
 brew install tree
 ```
 
+## Send email with console
+
+Valid for linux too
+
+```code
+echo "Hello World!!!" | mail -s "Mail Subject Here" "emailtarget@here.dot"
+```
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
