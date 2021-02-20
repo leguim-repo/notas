@@ -47,10 +47,18 @@ brew install tree
 
 ## Send email with console
 
-Valid for linux too
+The follow command send a email in text format. (Valid for linux too)  
 
 ```code
 echo "Hello World!!!" | mail -s "Mail Subject Here" "emailtarget@here.dot"
+```
+
+And the follow examples send a email in format HTML.  
+
+```code
+cat confirmation.html | mail -s "$(echo -e "This is the subjecto of Sigeva\nContent-Type: text/html")" "emailtarget@here.dot"
+echo "<b>HTML Message goes here</b>" | mail -s "$(echo -e "This is the subject\nContent-Type: text/html")" foo@example.com
+
 ```
 
 ---
