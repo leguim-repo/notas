@@ -2,6 +2,8 @@
 
 ## S3
 
+<https://docs.aws.amazon.com/cli/latest/reference/s3/ls.html>  
+
 ```code
 # Creacion bucket de datos  
 aws s3 mb s3://$BUCKET_NAME
@@ -11,6 +13,9 @@ aws s3 ls --endpoint http://localhost:4566
 awslocal s3 ls
 
 aws s3 ls --recursive --summarize --human-readable s3-upload-files-svc
+
+aws s3 ls s3://arn:aws:s3:eu-central-1:123456789012:accesspoint/myaccesspoint/
+
 ```
 
 ## Lambdas  
