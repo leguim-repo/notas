@@ -61,6 +61,11 @@ echo "<b>HTML Message goes here</b>" | mail -s "$(echo -e "This is the subject\n
 
 ```
 
+##  Combination of keys Meta-Z
+
+Sometimes when I installed minicom and I need change parameter don't remember the combintaion keys of Meta-Z.  
+The magic combination of Meta-Z is: Esc + z
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
