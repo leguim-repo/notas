@@ -66,6 +66,18 @@ echo "<b>HTML Message goes here</b>" | mail -s "$(echo -e "This is the subject\n
 Sometimes when I installed minicom and I need change parameter don't remember the combintaion keys of Meta-Z.  
 The magic combination of Meta-Z is: Esc + z
 
+## Get hardware model in terminal
+
+```code
+sysctl hw.model
+```
+
+Try too:
+
+```code
+sysctl -a
+```
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
