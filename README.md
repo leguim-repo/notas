@@ -28,7 +28,10 @@ Public notes and cheatsheets
 | [ReactJS.md](ReactJS.md) | Note of ReactJS |
 | [ReactNative.md](ReactNative.md) | Note of React Native |
 | [Spring.md](Spring.md) | Spring notes |
+| [VirtualBox.md](VirtualBox.md) | Notes of Virtual Box |
 | [VisualStudio.md](VisualStudio.md) | Keys and notes of Visual Studio Code |
+
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/leguim-repo/notas)
 ![GitHub](https://img.shields.io/github/license/leguim-repo/notas)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leguim-repo/notas)
