@@ -18,6 +18,7 @@ Public notes and cheatsheets
 | [JavaScript.md](JavaScript.md) | Notes of JavaScript |
 | [KaliDocker.md](KaliDocker.md) | To have Kali in a Docker container (and create a custom image)|
 | [Links.md](Links.md) | Web pages of interest |
+| [Linux.md](Linux.md) | Linux stuff |
 | [LocalStack.md](LocalStack.md) | Web pages of interest |
 | [Macos.md](Macos.md) | Macos tricks and shortcuts |
 | [Maven.md](Maven.md) | Maven dependencies and other tricks |
