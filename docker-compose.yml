@@ -1,0 +1,16 @@
+version: '3'
+services:
+  web:
+    image: thomsch98/markserv
+    restart: always
+    ports:
+      - 3080:3080
+    networks:
+      inbound_dasboards:
+    volumes:
+      - ./:/data
+volumes:
+  data:
+
+networks:
+  inbound_dasboards:
