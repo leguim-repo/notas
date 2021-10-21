@@ -18,6 +18,7 @@ Public notes and cheatsheets
 | [JavaScript.md](JavaScript.md) | Notes of JavaScript |
 | [KaliDocker.md](KaliDocker.md) | To have Kali in a Docker container (and create a custom image)|
 | [Links.md](Links.md) | Web pages of interest |
+| [Linux.md](Linux.md) | Linux stuff |
 | [LocalStack.md](LocalStack.md) | Web pages of interest |
 | [Macos.md](Macos.md) | Macos tricks and shortcuts |
 | [Maven.md](Maven.md) | Maven dependencies and other tricks |
@@ -27,7 +28,10 @@ Public notes and cheatsheets
 | [ReactJS.md](ReactJS.md) | Note of ReactJS |
 | [ReactNative.md](ReactNative.md) | Note of React Native |
 | [Spring.md](Spring.md) | Spring notes |
+| [VirtualBox.md](VirtualBox.md) | Notes of Virtual Box |
 | [VisualStudio.md](VisualStudio.md) | Keys and notes of Visual Studio Code |
+
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/leguim-repo/notas)
 ![GitHub](https://img.shields.io/github/license/leguim-repo/notas)
 ![GitHub repo size](https://img.shields.io/github/repo-size/leguim-repo/notas)
