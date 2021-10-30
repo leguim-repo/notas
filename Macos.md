@@ -16,7 +16,7 @@ To show hidden files:
 
 ```code
 defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
-````
+```
 
 To hide files:
 
