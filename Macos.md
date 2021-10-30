@@ -15,15 +15,13 @@ Source: [macworld](http://hints.macworld.com/article.php?story=20050512155856402
 To show hidden files:
 
 ```code
-defaults write com.apple.finder AppleShowAllFiles -bool true
-killall Finder
+defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder
 ````
 
 To hide files:
 
 ```code
-defaults write com.apple.finder AppleShowAllFiles -bool false
-killall Finder
+defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder
 ```
 
 ## Change crontab editor
