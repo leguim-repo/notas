@@ -21,6 +21,7 @@ Public notes and cheatsheets
 | [Linux.md](Linux.md) | Linux stuff |
 | [LocalStack.md](LocalStack.md) | Web pages of interest |
 | [Macos.md](Macos.md) | Macos tricks and shortcuts |
+| [MariaDB.md](MariaDB.md) | MariaDB stuff |
 | [Maven.md](Maven.md) | Maven dependencies and other tricks |
 | [MySQL-MacOs.md](MySQL-MacOs.md) | Suff of MySQL on MacOs|
 | [NodeJS_package.md](NodeJS.md) | Note of NodeJS packages |
