@@ -1,5 +1,12 @@
 # Apuntes NodeJS
 
+Instalarlo usando brew y la version (recuerda desinstalar la version anterior)
+
+```console
+brew uninstall node@14
+brew install node@16
+```
+
 ## Depuracion Remota usando Chrome
 
 1. Hacemos un port forward del equipo remoto (9229) a nuestra maquina local(9221)
