@@ -1,16 +1,19 @@
-version: '3'
+version: "3.9"
+
 services:
-  web:
+
+  web-notas:
     image: thomsch98/markserv
-    restart: always
+    container_name: web-notas-mike
+
+    restart: unless-stopped
+
+    environment:
+      TZ: 'Europe/Andorra'
+
     ports:
       - 3080:3080
-    networks:
-      inbound_dasboards:
     volumes:
       - ./:/data
-volumes:
-  data:
 
-networks:
-  inbound_dasboards:
+
