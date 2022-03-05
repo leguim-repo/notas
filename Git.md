@@ -18,9 +18,14 @@ git add RutaArchivo
 
 git clone <http://direcciondelproyecto/repositorio/proyecto.git>  
 
+
 ## Descargar los cambios al repositorio local desde el remoto
 
 git pull  
+
+## Configurar git para actualizar submodulos
+
+git config submodule.recurse true
 
 ## Crear una instantanea del repositorio
 
