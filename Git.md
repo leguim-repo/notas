@@ -23,6 +23,10 @@ git clone <http://direcciondelproyecto/repositorio/proyecto.git>
 
 git pull  
 
+## Descargar los cambios del repo  incluidos los submodulos
+
+git pull && git submodule update --recursive
+
 ## Configurar git para actualizar submodulos
 
 git config submodule.recurse true
