@@ -18,10 +18,13 @@ git add RutaArchivo
 
 git clone <http://direcciondelproyecto/repositorio/proyecto.git>  
 
-
 ## Descargar los cambios al repositorio local desde el remoto
 
 git pull  
+
+## Añadir submodulo (otro repo) al repo principal
+
+git submodule add https://github.com/leguim-repo/potential-code-engine  potential-code-engine/potential-code-engine
 
 ## Descargar los cambios del repo  incluidos los submodulos
 
