@@ -384,6 +384,39 @@ git apply ~/new.file.patch.diff;
 git rm paraborrar.txt --cached
 ```
 
+##  Renaming Git Branch
+Follow the steps below to rename a Local and Remote Git Branch:
+
+Start by switching to the local branch which you want to rename:
+
+~~~bash
+git checkout <old_name>
+~~~
+
+Rename the local branch by typing:
+
+~~~bash
+git branch -m <new_name>
+~~~
+
+At this point, you have renamed the local branch.
+
+If you’ve already pushed the <old_name> branch to the remote repository , perform the next steps to rename the remote branch.
+
+Push the <new_name> local branch and reset the upstream branch:
+
+~~~bash
+git push origin -u <new_name>
+~~~
+
+Delete the <old_name> remote branch:
+
+~~~bash
+git push origin --delete <old_name>
+~~~
+
+That’s it. You have successfully renamed the local and remote Git branch.
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
