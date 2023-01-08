@@ -6,6 +6,10 @@
 k get pods
 k get nodes
 k exec -it nginx -- bash
+# Lista de imagenes en el repo de minikube
+minikube image ls --format table 
+# Subir imagen de docker a minikube
+minikube image load aws-lambda-python38
 ~~~
 
 ## Debug de contenedores
