@@ -417,6 +417,11 @@ git push origin --delete <old_name>
 
 That’s it. You have successfully renamed the local and remote Git branch.
 
+## Pretty git log by author
+~~~bash
+git log --author=leguim --pretty=format:"%ai - %ae : %s" --date=human
+~~~
+
 ---
 <!-- Pit i Collons -->
 ![Coded In Barcelona](https://raw.githubusercontent.com/leguim-repo/leguim-repo/master/img/currentfooter.png)
