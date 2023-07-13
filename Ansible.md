@@ -38,6 +38,8 @@ Create a file in `/etc/ansible/hosts` with a content like:
 
 ## Basic commands
 
+ping:
+
 ~~~bash
 ansible all -m ping
 
@@ -55,4 +57,13 @@ ansible all -m ping
     "changed": false,
     "ping": "pong"
 }
+~~~
+
+shell command:
+
+~~~bash
+ansible dev -m shell -a "/bin/echo hello"
+
+192.168.10.1 | CHANGED | rc=0 >>
+hello
 ~~~
