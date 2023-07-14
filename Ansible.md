@@ -67,3 +67,9 @@ ansible dev -m shell -a "/bin/echo hello"
 192.168.10.1 | CHANGED | rc=0 >>
 hello
 ~~~
+
+shell command as root with ask password:
+
+~~~bash
+ansible all --become --ask-become-pass -m shell -a "sudo dmesg"
+~~~
